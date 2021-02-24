@@ -6,7 +6,7 @@ title: Rafael C. Silva
 superuser: true
 
 # Role/position/tagline
-role: Msc of Geography
+role: MSc of Geography
 
 # Organizations/Affiliations to show in About widget
 organizations:
